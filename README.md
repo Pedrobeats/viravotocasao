@@ -1,4 +1,4 @@
-#### "O Vira Voto Casão é inspirado na ideia de https://ondevirarvoto.github.io/, como os dados extraidos e filtrados para realidade do ES e webapp refeito em Python usando o Streamlit.
+#### Acesse em https://pedrobeats-viravotocasao-main-j384vi.streamlit.app/
 
 # Onde virar votos para o Casão?
 
@@ -13,3 +13,5 @@ O cálculo é feito de maneira simples para encontrar locais que reúnam, simult
 - Pequeno percentual de eleitores de Mannato.
 
 Para isso, foram usados os dados de votação por bairro de todo o Espírito Santo, extraidos do TRE e de bases abertas e disponíveis a todos os cidadãos. De início, cada bairro do estado foi classificado de acordo com a quantidade de votos. Quanto maior o bairro maior é o impacto de virar votos. Depois, calculou-se a pontuação de cada bairro nas quatro características. É a partir dessa média que o IVV é calculado. Trata-se de uma medida bastante simples que visa encontrar onde são os bairros populosos com um percentual alto de eleitores potencialmente indecisos, mas que moram em áreas propensas a votar em Casagrande. O objetivo é ser uma ferramenta adicional para organizar ações na reta final da campanha, unindo os padrões de votação com o conhecimento cotidiano de quem mora em cada local.
+
+#### "O Vira Voto Casão é inspirado na ideia de https://ondevirarvoto.github.io/, como os dados extraidos e filtrados para realidade do ES e webapp refeito em Python usando o Streamlit. 
